@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAoB;EAClB,WAAW,EAAE,oBAAoB",
+"sources": ["bootstrap/typography.sass"],
+"names": [],
+"file": "main.css"
+}

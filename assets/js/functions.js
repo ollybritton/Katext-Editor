@@ -1,5 +1,8 @@
-$( document ).ready(function() {
+var render = function(){
+  var input = $('.input')
+  var output = $('.output')
 
-  // Get started!
+  var rendered = katex.renderToString($('input').val(), { displayMode: true })
+  $('.output').html(rendered)
 
-});
+}

@@ -1,15 +1,12 @@
-# DevTips-Starter-Kit
+# Katext Editor
+I made this because I needed to print maths stuff off and put it on my wall.
 
-Use this as a simple structure for a simple start to a simple site.
+## Instructions:
+- Go to [this page]().
+- Do mathsy stuff.
 
-Visit [DevTipsStarterKit.com/](http://devtipsstarterkit.com) for more info.
+## Things I Probably Used:
+- [Katex](https://github.com/Khan/KaTeX): Fast math typesetting for the web.
+- [Jquery](https://github.com/jquery/jquery): A javascript library for noobs.
 
-<img src="https://github.com/DevTips/DevTips-Starter-Kit/blob/master/assets/img/starter-kit-cover.jpg?raw=true"
-alt="Watch the video on youtube" />
-
-***
-
-### Other Versions
-
-- There is a Jekyll friendly version <a href="https://github.com/DevTips/DevTips-Starter-Kit/tree/Jekyll-Starter-Kit">here.</a> (based on v1)
-- DevTipster [Maikel José Rivero Dorta](https://github.com/mriverodorta) created a [gulp version](https://github.com/mriverodorta/DevTips-Starter-Kit/tree/Gulp-Starter-Kit), and a [Command Line Interface](https://github.com/mriverodorta/devtips-cli) for this project!! So cool :)
+*Katext... get it?*

@@ -2,7 +2,12 @@ var render = function(){
   var input = $('.input')
   var output = $('.output')
 
-  var rendered = katex.renderToString($('input').val(), { displayMode: true })
+  try {
+    var rendered = katex.renderToString($('input').val(), { displayMode: true,
+                                                            throwOnError: false,
+                                                            errorColor: "#ff329f" })
+  }
+  catch(err) {
+  }
   $('.output').html(rendered)
-
 }
